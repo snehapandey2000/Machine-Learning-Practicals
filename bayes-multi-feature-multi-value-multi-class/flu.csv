@@ -1,0 +1,8 @@
+Y,N,mild,Y,N
+Y,Y,no,N,Y
+Y,N,strong,Y,Y
+N,Y,mild,Y,Y
+N,N,no,N,N
+N,Y,strong,Y,Y
+N,Y,strong,N,N
+Y,Y,mild,Y,Y
